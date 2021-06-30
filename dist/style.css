@@ -3,8 +3,8 @@
 }
 h1{
   text-align : center;
-  font-size : 60px;
-  color : black ;
+  font-size : 65px;
+  color : grey ;
   background-image: linear-gradient(90deg, blue, #D3C9BC, #FAF3EF);
 }
 #hr-one{
@@ -27,7 +27,7 @@ h1{
   max-width:100%;
   height: auto;
   border: 7px solid;
-  border-color: black;
+  border-color: red;
   border-radius: 2%;
   margin-left: auto;
   margin-right: auto;
